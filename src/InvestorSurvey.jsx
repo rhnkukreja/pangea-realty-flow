@@ -161,7 +161,7 @@ export default function InvestorSurvey() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
             </div>
-            <h1 className="text-5xl md:text-6xl font-serif text-white mb-4">Welcome, Redima</h1>
+            <h1 className="text-5xl md:text-6xl font-serif text-white mb-4">Welcome, Ridhima</h1>
             <p className="text-xl text-slate-300 mb-12 max-w-lg mx-auto">
               Thank you for your interest. This brief assessment will help us understand your investment profile and recommend tailored opportunities.
             </p>
@@ -218,7 +218,7 @@ export default function InvestorSurvey() {
           </div>
           
           <p className="text-sm text-slate-400 mt-8">
-            Or email us at <span className="text-amber-400">invest@redima.com</span>
+            Or email us at <span className="text-amber-400">invest@ridhima.com</span>
           </p>
         </div>
       </div>
